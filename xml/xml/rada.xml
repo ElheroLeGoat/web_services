@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<countries>
+<country country_code="AF" country_name="Afghanistan" />
+<country country_code="AL" country_name="Albania" />
+<country country_code="DZ" country_name="Algeria" />
+<country country_code="DS" country_name="American Samoa" />
+<country country_code="AD" country_name="Andorra" />
+<country country_code="AO" country_name="Angola" />
+<country country_code="AI" country_name="Anguilla" />
+<country country_code="AQ" country_name="Antarctica" />
+<country country_code="AG" country_name="Antigua and Barbuda" />
+<country country_code="AR" country_name="Argentina" />
+<country country_code="AM" country_name="Armenia" />
+<country country_code="AW" country_name="Aruba" />
+<country country_code="AU" country_name="Australia" />
+<country country_code="AT" country_name="Austria" />
+<country country_code="AZ" country_name="Azerbaijan" />
+<country country_code="BS" country_name="Bahamas" />
+<country country_code="BH" country_name="Bahrain" />
+<country country_code="BD" country_name="Bangladesh" />
+<country country_code="BB" country_name="Barbados" />
+<country country_code="BY" country_name="Belarus" />
+<country country_code="BE" country_name="Belgium" />
+<country country_code="BZ" country_name="Belize" />
+<country country_code="BJ" country_name="Benin" />
+<country country_code="BM" country_name="Bermuda" />
+<country country_code="BT" country_name="Bhutan" />
+<country country_code="BO" country_name="Bolivia" />
+<country country_code="BA" country_name="Bosnia and Herzegovina" />
+<country country_code="BW" country_name="Botswana" />
+<country country_code="BV" country_name="Bouvet Island" />
+<country country_code="BR" country_name="Brazil" />
+<country country_code="IO" country_name="British Indian Ocean Territory" />
+<country country_code="BN" country_name="Brunei Darussalam" />
+<country country_code="BG" country_name="Bulgaria" />
+<country country_code="BF" country_name="Burkina Faso" />
+<country country_code="BI" country_name="Burundi" />
+<country country_code="KH" country_name="Cambodia" />
+<country country_code="CM" country_name="Cameroon" />
+<country country_code="CA" country_name="Canada" />
+<country country_code="CV" country_name="Cape Verde" />
+<country country_code="KY" country_name="Cayman Islands" />
+<country country_code="CF" country_name="Central African Republic" />
+<country country_code="TD" country_name="Chad" />
+<country country_code="CL" country_name="Chile" />
+<country country_code="CN" country_name="China" />
+<country country_code="CX" country_name="Christmas Island" />
+<country country_code="CC" country_name="Cocos (Keeling) Islands" />
+<country country_code="CO" country_name="Colombia" />
+<country country_code="KM" country_name="Comoros" />
+<country country_code="CG" country_name="Congo" />
+<country country_code="CK" country_name="Cook Islands" />
+<country country_code="CR" country_name="Costa Rica" />
+<country country_code="HR" country_name="Croatia (Hrvatska)" />
+<country country_code="CU" country_name="Cuba" />
+<country country_code="CY" country_name="Cyprus" />
+<country country_code="CZ" country_name="Czech Republic" />
+<country country_code="DK" country_name="Denmark" />
+<country country_code="DJ" country_name="Djibouti" />
+<country country_code="DM" country_name="Dominica" />
+<country country_code="DO" country_name="Dominican Republic" />
+<country country_code="TP" country_name="East Timor" />
+<country country_code="EC" country_name="Ecuador" />
+<country country_code="EG" country_name="Egypt" />
+<country country_code="SV" country_name="El Salvador" />
+<country country_code="GQ" country_name="Equatorial Guinea" />
+<country country_code="ER" country_name="Eritrea" />
+<country country_code="EE" country_name="Estonia" />
+<country country_code="ET" country_name="Ethiopia" />
+<country country_code="FK" country_name="Falkland Islands (Malvinas)" />
+<country country_code="FO" country_name="Faroe Islands" />
+<country country_code="FJ" country_name="Fiji" />
+<country country_code="FI" country_name="Finland" />
+<country country_code="FR" country_name="France" />
+<country country_code="FX" country_name="France, Metropolitan" />
+<country country_code="GF" country_name="French Guiana" />
+<country country_code="PF" country_name="French Polynesia" />
+<country country_code="TF" country_name="French Southern Territories" />
+<country country_code="GA" country_name="Gabon" />
+<country country_code="GM" country_name="Gambia" />
+<country country_code="GE" country_name="Georgia" />
+<country country_code="DE" country_name="Germany" />
+<country country_code="GH" country_name="Ghana" />
+<country country_code="GI" country_name="Gibraltar" />
+<country country_code="GK" country_name="Guernsey" />
+<country country_code="GR" country_name="Greece" />
+<country country_code="GL" country_name="Greenland" />
+<country country_code="GD" country_name="Grenada" />
+<country country_code="GP" country_name="Guadeloupe" />
+<country country_code="GU" country_name="Guam" />
+<country country_code="GT" country_name="Guatemala" />
+<country country_code="GN" country_name="Guinea" />
+<country country_code="GW" country_name="Guinea-Bissau" />
+<country country_code="GY" country_name="Guyana" />
+<country country_code="HT" country_name="Haiti" />
+<country country_code="HM" country_name="Heard and Mc Donald Islands" />
+<country country_code="HN" country_name="Honduras" />
+<country country_code="HK" country_name="Hong Kong" />
+<country country_code="HU" country_name="Hungary" />
+<country country_code="IS" country_name="Iceland" />
+<country country_code="IN" country_name="India" />
+<country country_code="IM" country_name="Isle of Man" />
+<country country_code="ID" country_name="Indonesia" />
+<country country_code="IR" country_name="Iran (Islamic Republic of)" />
+<country country_code="IQ" country_name="Iraq" />
+<country country_code="IE" country_name="Ireland" />
+<country country_code="IL" country_name="Israel" />
+<country country_code="IT" country_name="Italy" />
+<country country_code="CI" country_name="Ivory Coast" />
+<country country_code="JE" country_name="Jersey" />
+<country country_code="JM" country_name="Jamaica" />
+<country country_code="JP" country_name="Japan" />
+<country country_code="JO" country_name="Jordan" />
+<country country_code="KZ" country_name="Kazakhstan" />
+<country country_code="KE" country_name="Kenya" />
+<country country_code="KI" country_name="Kiribati" />
+<country country_code="KP" country_name="Korea, Democratic People's Republic of" />
+<country country_code="KR" country_name="Korea, Republic of" />
+<country country_code="XK" country_name="Kosovo" />
+<country country_code="KW" country_name="Kuwait" />
+<country country_code="KG" country_name="Kyrgyzstan" />
+<country country_code="LA" country_name="Lao People's Democratic Republic" />
+<country country_code="LV" country_name="Latvia" />
+<country country_code="LB" country_name="Lebanon" />
+<country country_code="LS" country_name="Lesotho" />
+<country country_code="LR" country_name="Liberia" />
+<country country_code="LY" country_name="Libyan Arab Jamahiriya" />
+<country country_code="LI" country_name="Liechtenstein" />
+<country country_code="LT" country_name="Lithuania" />
+<country country_code="LU" country_name="Luxembourg" />
+<country country_code="MO" country_name="Macau" />
+<country country_code="MK" country_name="Macedonia" />
+<country country_code="MG" country_name="Madagascar" />
+<country country_code="MW" country_name="Malawi" />
+<country country_code="MY" country_name="Malaysia" />
+<country country_code="MV" country_name="Maldives" />
+<country country_code="ML" country_name="Mali" />
+<country country_code="MT" country_name="Malta" />
+<country country_code="MH" country_name="Marshall Islands" />
+<country country_code="MQ" country_name="Martinique" />
+<country country_code="MR" country_name="Mauritania" />
+<country country_code="MU" country_name="Mauritius" />
+<country country_code="TY" country_name="Mayotte" />
+<country country_code="MX" country_name="Mexico" />
+<country country_code="FM" country_name="Micronesia, Federated States of" />
+<country country_code="MD" country_name="Moldova, Republic of" />
+<country country_code="MC" country_name="Monaco" />
+<country country_code="MN" country_name="Mongolia" />
+<country country_code="ME" country_name="Montenegro" />
+<country country_code="MS" country_name="Montserrat" />
+<country country_code="MA" country_name="Morocco" />
+<country country_code="MZ" country_name="Mozambique" />
+<country country_code="MM" country_name="Myanmar" />
+<country country_code="NA" country_name="Namibia" />
+<country country_code="NR" country_name="Nauru" />
+<country country_code="NP" country_name="Nepal" />
+<country country_code="NL" country_name="Netherlands" />
+<country country_code="AN" country_name="Netherlands Antilles" />
+<country country_code="NC" country_name="New Caledonia" />
+<country country_code="NZ" country_name="New Zealand" />
+<country country_code="NI" country_name="Nicaragua" />
+<country country_code="NE" country_name="Niger" />
+<country country_code="NG" country_name="Nigeria" />
+<country country_code="NU" country_name="Niue" />
+<country country_code="NF" country_name="Norfolk Island" />
+<country country_code="MP" country_name="Northern Mariana Islands" />
+<country country_code="NO" country_name="Norway" />
+<country country_code="OM" country_name="Oman" />
+<country country_code="PK" country_name="Pakistan" />
+<country country_code="PW" country_name="Palau" />
+<country country_code="PS" country_name="Palestine" />
+<country country_code="PA" country_name="Panama" />
+<country country_code="PG" country_name="Papua New Guinea" />
+<country country_code="PY" country_name="Paraguay" />
+<country country_code="PE" country_name="Peru" />
+<country country_code="PH" country_name="Philippines" />
+<country country_code="PN" country_name="Pitcairn" />
+<country country_code="PL" country_name="Poland" />
+<country country_code="PT" country_name="Portugal" />
+<country country_code="PR" country_name="Puerto Rico" />
+<country country_code="QA" country_name="Qatar" />
+<country country_code="RE" country_name="Reunion" />
+<country country_code="RO" country_name="Romania" />
+<country country_code="RU" country_name="Russian Federation" />
+<country country_code="RW" country_name="Rwanda" />
+<country country_code="KN" country_name="Saint Kitts and Nevis" />
+<country country_code="LC" country_name="Saint Lucia" />
+<country country_code="VC" country_name="Saint Vincent and the Grenadines" />
+<country country_code="WS" country_name="Samoa" />
+<country country_code="SM" country_name="San Marino" />
+<country country_code="ST" country_name="Sao Tome and Principe" />
+<country country_code="SA" country_name="Saudi Arabia" />
+<country country_code="SN" country_name="Senegal" />
+<country country_code="RS" country_name="Serbia" />
+<country country_code="SC" country_name="Seychelles" />
+<country country_code="SL" country_name="Sierra Leone" />
+<country country_code="SG" country_name="Singapore" />
+<country country_code="SK" country_name="Slovakia" />
+<country country_code="SI" country_name="Slovenia" />
+<country country_code="SB" country_name="Solomon Islands" />
+<country country_code="SO" country_name="Somalia" />
+<country country_code="ZA" country_name="South Africa" />
+<country country_code="GS" country_name="South Georgia South Sandwich Islands" />
+<country country_code="ES" country_name="Spain" />
+<country country_code="LK" country_name="Sri Lanka" />
+<country country_code="SH" country_name="St. Helena" />
+<country country_code="PM" country_name="St. Pierre and Miquelon" />
+<country country_code="SD" country_name="Sudan" />
+<country country_code="SR" country_name="Suriname" />
+<country country_code="SJ" country_name="Svalbard and Jan Mayen Islands" />
+<country country_code="SZ" country_name="Swaziland" />
+<country country_code="SE" country_name="Sweden" />
+<country country_code="CH" country_name="Switzerland" />
+<country country_code="SY" country_name="Syrian Arab Republic" />
+<country country_code="TW" country_name="Taiwan" />
+<country country_code="TJ" country_name="Tajikistan" />
+<country country_code="TZ" country_name="Tanzania, United Republic of" />
+<country country_code="TH" country_name="Thailand" />
+<country country_code="TG" country_name="Togo" />
+<country country_code="TK" country_name="Tokelau" />
+<country country_code="TO" country_name="Tonga" />
+<country country_code="TT" country_name="Trinidad and Tobago" />
+<country country_code="TN" country_name="Tunisia" />
+<country country_code="TR" country_name="Turkey" />
+<country country_code="TM" country_name="Turkmenistan" />
+<country country_code="TC" country_name="Turks and Caicos Islands" />
+<country country_code="TV" country_name="Tuvalu" />
+<country country_code="UG" country_name="Uganda" />
+<country country_code="UA" country_name="Ukraine" />
+<country country_code="AE" country_name="United Arab Emirates" />
+<country country_code="GB" country_name="United Kingdom" />
+<country country_code="US" country_name="United States" />
+<country country_code="UM" country_name="United States minor outlying islands" />
+<country country_code="UY" country_name="Uruguay" />
+<country country_code="UZ" country_name="Uzbekistan" />
+<country country_code="VU" country_name="Vanuatu" />
+<country country_code="VA" country_name="Vatican City State" />
+<country country_code="VE" country_name="Venezuela" />
+<country country_code="VN" country_name="Vietnam" />
+<country country_code="VG" country_name="Virgin Islands (British)" />
+<country country_code="VI" country_name="Virgin Islands (U.S.)" />
+<country country_code="WF" country_name="Wallis and Futuna Islands" />
+<country country_code="EH" country_name="Western Sahara" />
+<country country_code="YE" country_name="Yemen" />
+<country country_code="ZR" country_name="Zaire" />
+<country country_code="ZM" country_name="Zambia" />
+<country country_code="ZW" country_name="Zimbabwe" />
+
+</countries>
